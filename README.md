@@ -1,7 +1,7 @@
 # library-management-java
 
 Console application in Java for managing a library, built as an object-oriented programming and
-UML design assignment at Esprit School of Business.
+UML design assignment.
 
 ## What it does
 
